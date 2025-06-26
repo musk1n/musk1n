@@ -51,8 +51,8 @@
   <img src="https://img.shields.io/badge/Livepeer-00B712?style=for-the-badge&logo=livepeer&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> -->
+<!--   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Consulting-264653?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Product%20Design-ef476f?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Analysis-43AA8B?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Content%20Creation-FFD166?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Branding%20%26%20Identity-00b4d8?style=for-the-badge"/>
 </p>
 
 ---
@@ -78,12 +78,14 @@
 
 - 💡 Blending tech, design, and strategy to solve real-world problems.
 - 🧑‍💻 Passionate about blockchain, AI, consulting, and product thinking.
-- 🖌️ Experienced in branding, content, and UI/UX for campus clubs & national events.
+- 🖌️ Experienced in branding, content, and UI/UX for campus clubs & events.
 - 🌐 Beyond code: lead, organize, design, analyze, and connect.
 
 ---
 
 ### 📊 GitHub Stats
+
+<p><i>( The data is for year 2025 only due to API's limit. )</i></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=musk1n&count_private=true&show_icons=true&theme=radical&hide_border=true" height="160"/>
@@ -99,18 +101,24 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=musk1n&theme=rogue&area=true&hide_border=true" height="180"/>
 </p>
 
+
+
 ---
 
 ### 🤝 Let’s Connect
 
 <p align="center">
   <a href="mailto:08052006muskan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:muskan.4063@iitg.ac.in"><img src="https://img.shields.io/badge/IITG%20Mail-6A1B9A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muskan-yadav-52830629a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/musk1n"><img src="https://img.shields.io/badge/GitHub-222?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>
+  <a href="https://musk1n.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=about-dot-me&logoColor=white"/></a>
+  <a href="https://www.instagram.com/__musk1n__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/Muskan863482"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
