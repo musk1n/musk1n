@@ -1,7 +1,5 @@
-<!-- Profile README for Muskan | Inspired by rahul-jha98 -->
-
 <h1 align="center">
-  <strong style="font-size: 3rem; color: #8A2BE2;">Hi there, I'm Muskan!</strong>
+  <strong style="font-size: 3rem; color: #8A2BE2;">👋Hi there, I'm Muskan!</strong>
 </h1>
 
 <p align="center">
