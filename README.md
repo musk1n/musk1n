@@ -63,6 +63,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Blockchain-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white"/>
   <img src="https://img.shields.io/badge/Web3-24292e?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend%20Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-007396?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Software%20Developer-4F8A10?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20&%20ML-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Consulting-264653?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Product%20Design-ef476f?style=for-the-badge&logo=figma&logoColor=white"/>
