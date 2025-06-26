@@ -86,7 +86,7 @@
 
 ### 📊 GitHub Stats
 
-<p><i>( The data is for year 2025 only due to API's limit. )</i></p>
+<p><i>( Some of the stats are for year 2025 only due to API's limit. )</i></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=musk1n&count_private=true&show_icons=true&theme=radical&hide_border=true" height="160"/>
