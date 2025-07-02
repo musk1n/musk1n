@@ -88,18 +88,25 @@
 
 <p><i>( Some of the stats are for year 2025 only due to API's limit. )</i></p>
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musk1n&count_private=true&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=musk1n&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=musk1n&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=musk1n&theme=radical&hide_border=true" />
 </p>
+
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musk1n&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musk1n&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
+
+<!-- Trophy Section -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=musk1n&theme=radical&margin-w=10&margin-h=10&no-frame=true&column=7" height="110"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=musk1n&theme=radical&margin-w=10&margin-h=10&no-frame=true&column=7" />
 </p>
+
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=musk1n&theme=rogue&area=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=musk1n&theme=rogue&area=true&hide_border=true" />
 </p>
 
 
